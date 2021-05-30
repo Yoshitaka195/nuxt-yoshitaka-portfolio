@@ -11,6 +11,7 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "@nuxtjs/now-builder": "^0.17.3",
     "boxicons": "^2.0.7",
     "core-js": "^3.9.1",
     "material-icons": "^0.6.4",
